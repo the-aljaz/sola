@@ -1,4 +1,4 @@
-# Vprasanja in odgovori a spraševanje iz matematike 2024
+# Vprasanja in odgovori za spraševanje iz matematike 2024
 
 
 ## Osnovna raven
