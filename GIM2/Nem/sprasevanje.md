@@ -20,7 +20,7 @@ Die Bibliothek ist in der erste Etage links.
 * Der Programmierer schreibt Programme für der Computer
 * der KFZ Mechatroniker repariert autos
 #### 5. Beschreibe den Weg von der Schule bis zum Hauptbahnhof!
-Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur die Kreuzung mit Grand Plaza Hotel auf der rechten Seite. Gehen sie hier rechts. Die Hauptbahnhof ist auf der linken Seite.
+Zuerst gehen sie über Kongres plaz bis zur Slovenska Straße. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur die Kreuzung mit Grand Plaza Hotel auf der rechten Seite. Gehen sie hier rechts. Die Hauptbahnhof ist auf der linken Seite.
 #### 6. Zähle fünf Sehenswürdigkeiten von Berlin auf!
 * die Humboldt Universität, 
 * der Reichstag, 
