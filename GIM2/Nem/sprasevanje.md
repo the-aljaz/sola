@@ -6,7 +6,7 @@
 #### Wo ist die Bibliothek in unserer Schule?
 `Die Bibliothek ist in der erste Etage links.`
 #### Beschreibe das Klassenzimmer, wo ist was?
-`Das Whiteboard und die Tafel sind an der Wand. 
+* Das Whiteboard und die Tafel sind an der Wand. 
 * Das Lernplakat ist am der wand.
 * Die Karte ist am der Wand.
 * Der Kalender ist am der Wand.
@@ -14,7 +14,7 @@
 * Die Tasche liegt auf dem Boden.
 * Der Computer ist im Schrank.n`
 #### Zähle fünf Berufe auf – wo und was machen die Leute?
-`*die Friseurin schneidet Haare 
+* die Friseurin schneidet Haare 
 * der Lehrer unterrichtet die Schüler
 * der Arzt untersucht Patienten
 * der Programmierer Programme für der Computer schreibt
@@ -22,7 +22,7 @@
 #### Beschreibe den Weg von der Schule bis zum Hauptbahnhof!
 `Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur die Kreuzung mit Grand Plaza Hotel auf der rechten Seite. Gehen sie hier rechts. Die Hauptbahnhof ist auf der linken Seite.`
 #### Zähle fünf Sehenswürdigkeiten von Berlin auf!
-`* die Humboldt Universität, 
+* die Humboldt Universität, 
 * der Reichstag, 
 * das Brandenburger Tor,
 * das Bundeskanzleramt,
