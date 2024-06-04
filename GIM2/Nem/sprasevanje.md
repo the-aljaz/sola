@@ -38,7 +38,8 @@ Leipzig ist ein Stadt in Osten von Deutschland in Sachsen Bundesland. Viele ber�
 #### 4. Was macht ein Automechaniker und wo?
 Autos repariert in die Werkstatt
 #### 5. Beschreibe den Weg von vom Hauptbahnhof bis zu Schule!
-#### 7. Welche Angaben gibt es aus einer Visitenkarte?
+
+#### 6. Welche Angaben gibt es aus einer Visitenkarte?
 * die Adresse, 
 * der Titel, 
 * der Beruf, 
@@ -50,22 +51,35 @@ Autos repariert in die Werkstatt
 Die Brandenburger Tor ist in Berlin auf Pariser Platz, 10117 Berlin, Deutschland 
 Der Weltezeituhr ist in Berlin auf Alexanderpl. 1, 10178 Berlin, Deutschland
 ### 3
-#### Was hast du am Samstag gemacht?
+#### 1. Was hast du am Samstag gemacht?
 `Am Sonntag bin ich um 10 Uhr aufgewacht. Ich habe um 10 Uhr 30 gefrühstückt. Von 11 bis 13 habe ich meine Hausaufgaben gemacht. Um 13 Uhr habe ich zu Mittag gegessen. Von 14 bis 17 Uhr habe ich gelernt. Dann habe ich ferngesehen. Ich habe um 20 zu Abend gegessen. Um 22 Uhr bin ich ins Bett gegangen.`
-#### Wo ist das Klassenzimmer K10 in unserer Schule?
-#### Was macht eine Sekretärin und wo?
-#### Wo sind die Staatsoper und die Humboldt Universität? (auch die Adresse)
-#### Beschreibe den Weg von der Schule bis zur Hauptpost!
-#### Wo kann man Urlaub machen und was macht man dort?
+#### 2. Wo ist das Klassenzimmer K10 in unserer Schule?
+Das Klassenzimmer K10 ist im Keller rechts.
+#### 3. Was macht eine Sekretärin und wo?
+Die Sekretärin schreibt E-Mails und plant Besprechungen
+#### 4. Wo sind die Staatsoper und die Humboldt Universität? (auch die Adresse)
+die Staatsoper ist in Berlin (Unter den Linden 7, 10117 Berlin, Deutschland) - die Humboldt Universität in Berlin (Unter den Linden 6, 10117 Berlin, Deutschland)
+#### 5. Beschreibe den Weg von der Schule bis zur Hauptpost!
+Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur Čopova Straße. Die Hauptpost ist auf der rechten Seite. 
+#### 6. Wo kann man Urlaub machen und was macht man dort?
+Im Urlaub kann mann gehen am See, am Fluss, am Strand, auf der Insel und schwimmen, in der Bergen, in der Altstadt und besuchen Sehenswürdigkeiten 
 
 ### 4
-#### Was hast du am Dienstag gemacht?
+#### 1. Was hast du am Dienstag gemacht?
 `Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.`
-#### Beschreibe euer Haus/eure Wohnung!
-#### Was hast du alles in deinem Zimmer?
-#### Was macht eine Call-Center-Agentin?
-#### Beschreibe den Weg von der Schule bis zur Oper!
-#### Was kannst du über den Bus Nummer 100 sagen?
+#### 2. Beschreibe euer Haus/eure Wohnung!
+
+#### 3. Was hast du alles in deinem Zimmer?
+in meinem Zimmer ist: 
+* Das Bett, bei mein Bett ist der Nachttisch, auf dem Nachttisch ist die Nachttischlampe, 
+* der Schreibtisch, auf dem schreibtisch ist die Lampe
+* Der Kleiderschrank
+* Der Stuhl
+#### 4. Was macht eine Call-Center-Agentin?
+Eine Call Center Agentin muss telefoniert viel, berät ihre Kunden
+#### 5. Beschreibe den Weg von der Schule bis zur Oper!
+#### 6. Was kannst du über den Bus Nummer 100 sagen?
+Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur Cankarjeva cesta. Gehen sie hier links. Auf der zweiten Krezung auf der linken Seite ist die Opera.
 
 ### 5
 #### Was hast du am Mittwoch gemacht?
