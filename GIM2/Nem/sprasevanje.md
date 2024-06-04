@@ -38,7 +38,7 @@ Leipzig ist ein Stadt in Osten von Deutschland in Sachsen Bundesland. Viele ber�
 #### 4. Was macht ein Automechaniker und wo?
 Autos repariert in die Werkstatt
 #### 5. Beschreibe den Weg von vom Hauptbahnhof bis zu Schule!
-#### Welche Angaben gibt es aus einer Visitenkarte?
+#### 7. Welche Angaben gibt es aus einer Visitenkarte?
 * die Adresse, 
 * der Titel, 
 * der Beruf, 
@@ -46,8 +46,9 @@ Autos repariert in die Werkstatt
 * der Name, 
 * die Handynummer, 
 * die Email Adresse
-#### Wo sind das Brandenburger Tor und die Weltzeituhr? (auch die Adresse)
-
+#### 7. Wo sind das Brandenburger Tor und die Weltzeituhr? (auch die Adresse)
+Die Brandenburger Tor ist in Berlin auf Pariser Platz, 10117 Berlin, Deutschland 
+Der Weltezeituhr ist in Berlin auf Alexanderpl. 1, 10178 Berlin, Deutschland
 ### 3
 #### Was hast du am Samstag gemacht?
 `Am Sonntag bin ich um 10 Uhr aufgewacht. Ich habe um 10 Uhr 30 gefrühstückt. Von 11 bis 13 habe ich meine Hausaufgaben gemacht. Um 13 Uhr habe ich zu Mittag gegessen. Von 14 bis 17 Uhr habe ich gelernt. Dann habe ich ferngesehen. Ich habe um 20 zu Abend gegessen. Um 22 Uhr bin ich ins Bett gegangen.`
