@@ -7,22 +7,27 @@
 `Die Bibliothek ist in der erste Etage links.`
 #### Beschreibe das Klassenzimmer, wo ist was?
 `Das Whiteboard und die Tafel sind an der Wand. 
-Das Lernplakat ist am der wand.
-Die Karte ist am der Wand.
-Der Kalender ist am der Wand.
-Die Federmape/der Kuli/das Heft/der Radiergummi/der Füller liegt auf dem Tisch.
-Die Tasche liegt auf dem Boden.
-Der Computer ist im Schrank.`
+* Das Lernplakat ist am der wand.
+* Die Karte ist am der Wand.
+* Der Kalender ist am der Wand.
+* Die Federmape/der Kuli/das Heft/der Radiergummi/der Füller liegt auf dem Tisch.
+* Die Tasche liegt auf dem Boden.
+* Der Computer ist im Schrank.n`
 #### Zähle fünf Berufe auf – wo und was machen die Leute?
-`die Friseurin schneidet Haare 
-der Lehrer unterrichtet die Schüler
-der Arzt untersucht Patienten
-der Programmierer Programme für der Computer schreibt
-der KFZ Mechatroniker - Maschinen repariert `
+`*die Friseurin schneidet Haare 
+* der Lehrer unterrichtet die Schüler
+* der Arzt untersucht Patienten
+* der Programmierer Programme für der Computer schreibt
+* der KFZ Mechatroniker - Maschinen repariert `
 #### Beschreibe den Weg von der Schule bis zum Hauptbahnhof!
 `Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur die Kreuzung mit Grand Plaza Hotel auf der rechten Seite. Gehen sie hier rechts. Die Hauptbahnhof ist auf der linken Seite.`
 #### Zähle fünf Sehenswürdigkeiten von Berlin auf!
-`die Humboldt Universität, der Reichstag, das Brandenburger Tor, das Bundeskanzleramt, der Alexanderplatz, die Staatsoper`
+`* die Humboldt Universität, 
+* der Reichstag, 
+* das Brandenburger Tor,
+* das Bundeskanzleramt,
+* der Alexanderplatz,
+* die Staatsoper`
 ### 2
 #### Was hast du am Sonntag gemacht?
 `Am Sonntag bin ich um 10 Uhr aufgewacht. Ich habe um 10 Uhr 30 gefrühstückt. Von 11 bis 13 habe ich meine Hausaufgaben gemacht. Um 13 Uhr habe ich zu Mittag gegessen. Von 14 bis 17 Uhr habe ich gelernt. Dann habe ich ferngesehen. Ich habe um 20 zu Abend gegessen. Um 22 Uhr bin ich ins Bett gegangen.`
