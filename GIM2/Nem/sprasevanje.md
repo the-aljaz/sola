@@ -86,16 +86,31 @@ Die fahrt mit dem Bus Linie 100 ist ein Hit. Mann kann mit dem Bus von Bahnhof Z
 #### 1. Was hast du am Mittwoch gemacht?
 `Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.`
 #### 2. Wie kann man zur Arbeit / zur Schule fahren?
+* mit dem Bus, Auto, Motorrad, Fahrrad, Zug; 
+* mit der Straßenbahn, U-Bahn
 #### 3. Was kannst du über die Bibliothek Albertina erzählen?
+Die Albertina ist die Bibliothek der Universität Leipzig. Die Bibliothek hat eine Internetseite. In der Cafebar kann man Kaffee trinken und Sandwiches oder Suppe essen. In der zweiten Etage findet man die Wörterbücher und die Zeitungen. In der dritten Etage gibt es Gruppenarbeitsräume. Oben in der vierten Etage ist die Verwaltung.
 #### 4. Was macht ein Fitness-Trainer?
+Ein Fitness Trainer muss die Sportgeräte kontrollieren und sein Mitglieder beraten, plane die Sportkurse
 #### 5. Was haben die Studenten in Berlin besucht?
+Die Studenten in Berlin besuchten das Regerungsviertel, der Reichstag, die Flohmarket, der Alexanderplatz
 #### 6. Beschreibe den Urlaub der Familie Mertens!
-
+Familie Mertens machte Urlaub von Passau nach Budapest. Sie probiert der Linzer Torte, das Kloster besucht, das Riesenrad im Prater besucht.
 ### 6
-#### Was hast du am Donnerstag gemacht?
+#### 1. Was hast du am Donnerstag gemacht?
 `Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.`
-#### Welche Ferien haben die Schüler in Deutschland und wann sind diese?
-#### Beschreibe deinen wöchentlichen Terminkalender!
-#### Was ist dein Traumberuf?
-#### Beschreibe den Weg von der Schule bis zum Marktplatz!
-#### Was machen Tanja und Marcel in Berlin?
+#### 2. Welche Ferien haben die Schüler in Deutschland und wann sind diese?
+* Winterferien: 5.2. - 9.2.
+* Osterferien: 25.3. - 5.4.
+* Pfingstferien: 21.5. - 1.6.
+* Sommerferien: 18.7. - 31.8.
+* Herbstferien: 21.10. - 2.11.
+* Weihnachtferien: 23.12. - 31.12.
+#### 3. Beschreibe deinen wöchentlichen Terminkalender!
+ich habe von Montag bis Freitag Unterricht, …???
+#### 4. Was ist dein Traumberuf?
+Mein Traumberuf ist Programmierer, ich kann zu Hause arbeiten, muss nicht viele Leute treffen, kann mit dem Computer arbeiten
+#### 5. Beschreibe den Weg von der Schule bis zum Marktplatz!
+Zuerst gehen sie über Kongresni trg bis zur Wolfova ulica. Dann die Straße entlang bis zur Prešernov trg. Hier gehen sie über die Brücke Tromostovje bis zur Krezung. Hier gehen sie links. Danach die Straße entlang und links ist die Marketplatz.
+#### 6. Was machen Tanja und Marcel in Berlin?
+Tanja findet Berlin super, sehr interessant. Sie findet der Gruppe Atmosphäre auch gut. - Marcel findet die Berlin Excurcion auch toll, aber zu Kurz. Er findet die Architektur sehr interessant. Er viele fotografiert.
