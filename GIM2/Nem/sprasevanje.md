@@ -2,9 +2,9 @@
 
 ### 1
 #### 1. Was hast du gestern gemacht?
-`Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.`
+Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.
 #### 2. Wo ist die Bibliothek in unserer Schule?
-`Die Bibliothek ist in der erste Etage links.`
+Die Bibliothek ist in der erste Etage links.
 #### 3. Beschreibe das Klassenzimmer, wo ist was?
 * Das Whiteboard und die Tafel sind an der Wand. 
 * Das Lernplakat ist am der wand.
@@ -20,7 +20,7 @@
 * der Programmierer Programme für der Computer schreibt
 * der KFZ Mechatroniker - Maschinen repariert
 #### 5. Beschreibe den Weg von der Schule bis zum Hauptbahnhof!
-`Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur die Kreuzung mit Grand Plaza Hotel auf der rechten Seite. Gehen sie hier rechts. Die Hauptbahnhof ist auf der linken Seite.`
+Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur die Kreuzung mit Grand Plaza Hotel auf der rechten Seite. Gehen sie hier rechts. Die Hauptbahnhof ist auf der linken Seite.
 #### 6. Zähle fünf Sehenswürdigkeiten von Berlin auf!
 * die Humboldt Universität, 
 * der Reichstag, 
