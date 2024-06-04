@@ -58,7 +58,7 @@ Der Weltezeituhr ist in Berlin auf Alexanderpl. 1, 10178 Berlin, Deutschland
 
 ### 3
 #### 1. Was hast du am Samstag gemacht?
-Am Sonntag bin ich um 10 Uhr aufgewacht. Ich habe um 10 Uhr 30 gefrühstückt. Von 11 bis 13 habe ich meine Hausaufgaben gemacht. Um 13 Uhr habe ich zu Mittag gegessen. Von 14 bis 17 Uhr habe ich gelernt. Dann habe ich ferngesehen. Ich habe um 20 zu Abend gegessen. Um 22 Uhr bin ich ins Bett gegangen.
+Am Samstag bin ich um 10 Uhr aufgewacht. Ich habe um 10 Uhr 30 gefrühstückt. Von 11 bis 13 habe ich meine Hausaufgaben gemacht. Um 13 Uhr habe ich zu Mittag gegessen. Von 14 bis 17 Uhr habe ich gelernt. Dann habe ich ferngesehen. Ich habe um 20 zu Abend gegessen. Um 22 Uhr bin ich ins Bett gegangen.
 #### 2. Wo ist das Klassenzimmer K10 in unserer Schule?
 Das Klassenzimmer K10 ist im Keller rechts.
 #### 3. Was macht eine Sekretärin und wo?
@@ -74,7 +74,7 @@ Im Urlaub kann mann gehen am See, am Fluss, am Strand, auf der Insel und schwimm
 
 ### 4
 #### 1. Was hast du am Dienstag gemacht?
-Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.
+Am Dienstag bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.
 #### 2. Beschreibe euer Haus/eure Wohnung!
 
 #### 3. Was hast du alles in deinem Zimmer?
@@ -94,7 +94,7 @@ Die fahrt mit dem Bus Linie 100 ist ein Hit. Mann kann mit dem Bus von Bahnhof Z
 
 ### 5
 #### 1. Was hast du am Mittwoch gemacht?
-Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.
+Am Mittwoch bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.
 #### 2. Wie kann man zur Arbeit / zur Schule fahren?
 * mit dem Bus, Auto, Motorrad, Fahrrad, Zug; 
 * mit der Straßenbahn, U-Bahn
@@ -111,7 +111,7 @@ Familie Mertens machte Urlaub von Passau nach Budapest. Sie probiert der Linzer 
 
 ### 6
 #### 1. Was hast du am Donnerstag gemacht?
-Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.
+Am Donnerstag bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.
 #### 2. Welche Ferien haben die Schüler in Deutschland und wann sind diese?
 * Winterferien: 5.2. - 9.2.
 * Osterferien: 25.3. - 5.4.
