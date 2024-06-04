@@ -12,13 +12,13 @@
 * Der Kalender ist am der Wand.
 * Die Federmape/der Kuli/das Heft/der Radiergummi/der Füller liegt auf dem Tisch.
 * Die Tasche liegt auf dem Boden.
-* Der Computer ist im Schrank.n`
+* Der Computer ist im Schrank
 #### Zähle fünf Berufe auf – wo und was machen die Leute?
 * die Friseurin schneidet Haare 
 * der Lehrer unterrichtet die Schüler
 * der Arzt untersucht Patienten
 * der Programmierer Programme für der Computer schreibt
-* der KFZ Mechatroniker - Maschinen repariert `
+* der KFZ Mechatroniker - Maschinen repariert
 #### Beschreibe den Weg von der Schule bis zum Hauptbahnhof!
 `Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur die Kreuzung mit Grand Plaza Hotel auf der rechten Seite. Gehen sie hier rechts. Die Hauptbahnhof ist auf der linken Seite.`
 #### Zähle fünf Sehenswürdigkeiten von Berlin auf!
@@ -27,15 +27,25 @@
 * das Brandenburger Tor,
 * das Bundeskanzleramt,
 * der Alexanderplatz,
-* die Staatsoper`
+* die Staatsoper
 ### 2
-#### Was hast du am Sonntag gemacht?
+#### 1. Was hast du am Sonntag gemacht?
 `Am Sonntag bin ich um 10 Uhr aufgewacht. Ich habe um 10 Uhr 30 gefrühstückt. Von 11 bis 13 habe ich meine Hausaufgaben gemacht. Um 13 Uhr habe ich zu Mittag gegessen. Von 14 bis 17 Uhr habe ich gelernt. Dann habe ich ferngesehen. Ich habe um 20 zu Abend gegessen. Um 22 Uhr bin ich ins Bett gegangen.`
-#### Wo ist das Klassenzimmer 207 in unserer Schule?
-#### Was kannst du über Leipzig erzählen?
-#### Was macht ein Automechaniker und wo?
-#### Beschreibe den Weg von vom Hauptbahnhof bis zu Schule!
+#### 2. Wo ist das Klassenzimmer 207 in unserer Schule?
+Das Klassenzimmer 207 ist in der zweite Etage rechts.
+#### 3. Was kannst du über Leipzig erzählen?
+Leipzig ist ein Stadt in Osten von Deutschland in Sachsen Bundesland. Viele berühmte Leute waren in Leipzig (Johann Wolfgang von Goethe, Richard Wagner, Johann Sebastian Bach). Porsche un BMW produzieren in Leipzig. Der Hauptbahnhof ist in Leipzig.
+#### 4. Was macht ein Automechaniker und wo?
+Autos repariert in die Werkstatt
+#### 5. Beschreibe den Weg von vom Hauptbahnhof bis zu Schule!
 #### Welche Angaben gibt es aus einer Visitenkarte?
+* die Adresse, 
+* der Titel, 
+* der Beruf, 
+* die Telefonnummer, 
+* der Name, 
+* die Handynummer, 
+* die Email Adresse
 #### Wo sind das Brandenburger Tor und die Weltzeituhr? (auch die Adresse)
 
 ### 3
