@@ -6,7 +6,13 @@
 #### Wo ist die Bibliothek in unserer Schule?
 `Die Bibliothek ist in der erste Etage links.`
 #### Beschreibe das Klassenzimmer, wo ist was?
-`Das Whiteboard und die Tafel sind an der Wand.`
+`Das Whiteboard und die Tafel sind an der Wand. 
+Das Lernplakat ist am der wand.
+Die Karte ist am der Wand.
+Der Kalender ist am der Wand.
+Die Federmape/der Kuli/das Heft/der Radiergummi/der Füller liegt auf dem Tisch.
+Die Tasche liegt auf dem Boden.
+Der Computer ist im Schrank.`
 #### Zähle fünf Berufe auf – wo und was machen die Leute?
 `die Friseurin schneidet Haare 
 der Lehrer unterrichtet die Schüler
