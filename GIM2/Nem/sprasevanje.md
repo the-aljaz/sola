@@ -78,17 +78,18 @@ in meinem Zimmer ist:
 #### 4. Was macht eine Call-Center-Agentin?
 Eine Call Center Agentin muss telefoniert viel, berät ihre Kunden
 #### 5. Beschreibe den Weg von der Schule bis zur Oper!
-#### 6. Was kannst du über den Bus Nummer 100 sagen?
 Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur Cankarjeva cesta. Gehen sie hier links. Auf der zweiten Krezung auf der linken Seite ist die Opera.
+#### 6. Was kannst du über den Bus Nummer 100 sagen?
+Die fahrt mit dem Bus Linie 100 ist ein Hit. Mann kann mit dem Bus von Bahnhof ZOO bis zum Alexanderplatz fahren und viele Sehenswürdigkeiten besuchen.
 
 ### 5
-#### Was hast du am Mittwoch gemacht?
+#### 1. Was hast du am Mittwoch gemacht?
 `Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.`
-#### Wie kann man zur Arbeit / zur Schule fahren?
-#### Was kannst du über die Bibliothek Albertina erzählen?
-#### Was macht ein Fitness-Trainer?
-#### Was haben die Studenten in Berlin besucht?
-#### Beschreibe den Urlaub der Familie Mertens!
+#### 2. Wie kann man zur Arbeit / zur Schule fahren?
+#### 3. Was kannst du über die Bibliothek Albertina erzählen?
+#### 4. Was macht ein Fitness-Trainer?
+#### 5. Was haben die Studenten in Berlin besucht?
+#### 6. Beschreibe den Urlaub der Familie Mertens!
 
 ### 6
 #### Was hast du am Donnerstag gemacht?
