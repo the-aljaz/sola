@@ -17,7 +17,7 @@ Die Bibliothek ist in der erste Etage links.
 * die Friseurin schneidet Haare 
 * der Lehrer unterrichtet die Schüler
 * der Arzt untersucht Patienten
-* der Programmierer Programme für der Computer schreibt
+* Der Programmierer schreibt Programme für das Computer
 * der KFZ Mechatroniker - Maschinen repariert
 #### 5. Beschreibe den Weg von der Schule bis zum Hauptbahnhof!
 Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur die Kreuzung mit Grand Plaza Hotel auf der rechten Seite. Gehen sie hier rechts. Die Hauptbahnhof ist auf der linken Seite.
