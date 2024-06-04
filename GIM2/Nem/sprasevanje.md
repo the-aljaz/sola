@@ -41,7 +41,11 @@ Leipzig ist ein Stadt in Osten von Deutschland in Sachsen Bundesland. Viele ber�
 #### 4. Was macht ein Automechaniker und wo?
 repariert autos in die Werkstatt
 #### 5. Beschreibe den Weg von vom Hauptbahnhof bis zu Schule!
-
+Gehen sie geradeaus bis zur kreuzung mit Slovenska Straße.
+Dann gehen sie rechts ins Slovenska Straße.
+Dann gehen sie geradeaus bis cur Zvezda park.
+gehen sie uber den Zvezda park un kongres platz ins Vegova Straße.
+Die Schule ist auf der rechten seite
 #### 6. Welche Angaben gibt es aus einer Visitenkarte?
 * die Adresse, 
 * der Titel, 
@@ -52,7 +56,7 @@ repariert autos in die Werkstatt
 * die Email Adresse
 #### 7. Wo sind das Brandenburger Tor und die Weltzeituhr? (auch die Adresse)
 Die Brandenburger Tor ist in Berlin auf Pariser Platz, 10117 Berlin, Deutschland 
-Der Weltezeituhr ist in Berlin auf Alexanderpl. 1, 10178 Berlin, Deutschland
+Der Weltezeituhr ist in Berlin auf Alexanderplatz 1, 10178 Berlin, Deutschland
 
 ***
 
