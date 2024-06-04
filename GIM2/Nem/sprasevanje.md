@@ -68,7 +68,8 @@ Das Klassenzimmer K10 ist im Keller rechts.
 #### 3. Was macht eine Sekretärin und wo?
 Die Sekretärin schreibt E-Mails und plant Besprechungen
 #### 4. Wo sind die Staatsoper und die Humboldt Universität? (auch die Adresse)
-die Staatsoper ist in Berlin (Unter den Linden 7, 10117 Berlin, Deutschland) - die Humboldt Universität in Berlin (Unter den Linden 6, 10117 Berlin, Deutschland)
+die Staatsoper ist in Berlin (Unter den Linden 7, 10117 Berlin, Deutschland)<br>
+die Humboldt Universität ist in Berlin (Unter den Linden 6, 10117 Berlin, Deutschland)
 #### 5. Beschreibe den Weg von der Schule bis zur Hauptpost!
 Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur Čopova Straße. Die Hauptpost ist auf der rechten Seite. 
 #### 6. Wo kann man Urlaub machen und was macht man dort?
