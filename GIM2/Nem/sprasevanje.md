@@ -28,6 +28,9 @@
 * das Bundeskanzleramt,
 * der Alexanderplatz,
 * die Staatsoper
+
+***
+
 ### 2
 #### 1. Was hast du am Sonntag gemacht?
 `Am Sonntag bin ich um 10 Uhr aufgewacht. Ich habe um 10 Uhr 30 gefrühstückt. Von 11 bis 13 habe ich meine Hausaufgaben gemacht. Um 13 Uhr habe ich zu Mittag gegessen. Von 14 bis 17 Uhr habe ich gelernt. Dann habe ich ferngesehen. Ich habe um 20 zu Abend gegessen. Um 22 Uhr bin ich ins Bett gegangen.`
@@ -50,6 +53,9 @@ Autos repariert in die Werkstatt
 #### 7. Wo sind das Brandenburger Tor und die Weltzeituhr? (auch die Adresse)
 Die Brandenburger Tor ist in Berlin auf Pariser Platz, 10117 Berlin, Deutschland 
 Der Weltezeituhr ist in Berlin auf Alexanderpl. 1, 10178 Berlin, Deutschland
+
+***
+
 ### 3
 #### 1. Was hast du am Samstag gemacht?
 `Am Sonntag bin ich um 10 Uhr aufgewacht. Ich habe um 10 Uhr 30 gefrühstückt. Von 11 bis 13 habe ich meine Hausaufgaben gemacht. Um 13 Uhr habe ich zu Mittag gegessen. Von 14 bis 17 Uhr habe ich gelernt. Dann habe ich ferngesehen. Ich habe um 20 zu Abend gegessen. Um 22 Uhr bin ich ins Bett gegangen.`
@@ -63,6 +69,8 @@ die Staatsoper ist in Berlin (Unter den Linden 7, 10117 Berlin, Deutschland) - d
 Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur Čopova Straße. Die Hauptpost ist auf der rechten Seite. 
 #### 6. Wo kann man Urlaub machen und was macht man dort?
 Im Urlaub kann mann gehen am See, am Fluss, am Strand, auf der Insel und schwimmen, in der Bergen, in der Altstadt und besuchen Sehenswürdigkeiten 
+
+***
 
 ### 4
 #### 1. Was hast du am Dienstag gemacht?
@@ -80,7 +88,9 @@ Eine Call Center Agentin muss telefoniert viel, berät ihre Kunden
 #### 5. Beschreibe den Weg von der Schule bis zur Oper!
 Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur Cankarjeva cesta. Gehen sie hier links. Auf der zweiten Krezung auf der linken Seite ist die Opera.
 #### 6. Was kannst du über den Bus Nummer 100 sagen?
-Die fahrt mit dem Bus Linie 100 ist ein Hit. Mann kann mit dem Bus von Bahnhof ZOO bis zum Alexanderplatz fahren und viele Sehenswürdigkeiten besuchen.
+Die fahrt mit dem Bus Linie 100 ist ein Hit. Mann kann mit dem Bus von Bahnhof ZOO bis zum Alexanderplatz fahren und viele Sehenswürdigkeiten besucht
+
+***
 
 ### 5
 #### 1. Was hast du am Mittwoch gemacht?
@@ -96,6 +106,9 @@ Ein Fitness Trainer muss die Sportgeräte kontrollieren und sein Mitglieder bera
 Die Studenten in Berlin besuchten das Regerungsviertel, der Reichstag, die Flohmarket, der Alexanderplatz
 #### 6. Beschreibe den Urlaub der Familie Mertens!
 Familie Mertens machte Urlaub von Passau nach Budapest. Sie probiert der Linzer Torte, das Kloster besucht, das Riesenrad im Prater besucht.
+
+***
+
 ### 6
 #### 1. Was hast du am Donnerstag gemacht?
 `Gestern bin ich um 6 Uhr aufgewacht. Ich habe um 6 Uhr 20 gefrühstückt. Um 7 Uhr bin ich mit dem Bus zur Schule gefahren. Ich war von 8 Uhr 20 bis 16/(14.20) Uhr in der Schule. Um 17 Uhr habe ich zu Mittag gegessen. Dann habe ich meine Hausaufgaben gemacht und für den Test gelernt. Ich habe um 22 Uhr zu Abend gegessen. Um 23 Uhr bin ich ins Bett gegangen.`
