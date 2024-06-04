@@ -39,7 +39,7 @@ Das Klassenzimmer 207 ist in der zweite Etage rechts.
 #### 3. Was kannst du über Leipzig erzählen?
 Leipzig ist ein Stadt in Osten von Deutschland in Sachsen Bundesland. Viele berühmte Leute waren in Leipzig (Johann Wolfgang von Goethe, Richard Wagner, Johann Sebastian Bach). Porsche un BMW produzieren in Leipzig. Der Hauptbahnhof ist in Leipzig.
 #### 4. Was macht ein Automechaniker und wo?
-Autos repariert in die Werkstatt
+repariert autos in die Werkstatt
 #### 5. Beschreibe den Weg von vom Hauptbahnhof bis zu Schule!
 
 #### 6. Welche Angaben gibt es aus einer Visitenkarte?
