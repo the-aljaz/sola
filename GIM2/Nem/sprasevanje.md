@@ -55,7 +55,7 @@ Die Schule ist auf der rechten seite
 * die Handynummer, 
 * die Email Adresse
 #### 7. Wo sind das Brandenburger Tor und die Weltzeituhr? (auch die Adresse)
-Die Brandenburger Tor ist in Berlin auf Pariser Platz, 10117 Berlin, Deutschland 
+Die Brandenburger Tor ist in Berlin auf Pariser Platz, 10117 Berlin, Deutschland <br>
 Der Weltezeituhr ist in Berlin auf Alexanderplatz 1, 10178 Berlin, Deutschland
 
 ***
