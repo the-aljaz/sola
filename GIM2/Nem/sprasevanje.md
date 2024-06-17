@@ -114,9 +114,10 @@ die Humboldt Universität ist in Berlin (Unter den Linden 6, 10117 Berlin, Deuts
 Zuerst gehen sie über Kongresni trg bis zur Slovenska cesta. Gehen sie hier rechts. Dann gehen sie geradeaus auf Slovenska cesta bis zur Čopova Straße. Die Hauptpost ist auf der rechten Seite. 
 
 #### 6. Wo kann man Urlaub machen und was macht man dort?
-Mann kann Urlaub machen am Meer – baden, lesen, in die Sonne liegen
-in der Stadt – bummeln, die Schlösse sehen, in das Café trinken
-in den Bergen – wandern, Ski fahren, in die Natur sein.
+Mann kann Urlaub machen 
+* am Meer – baden, lesen, in die Sonne liegen
+* in der Stadt – bummeln, die Schlösse sehen, in das Café trinken
+* in den Bergen – wandern, Ski fahren, in die Natur sein.
 
 ***
 
